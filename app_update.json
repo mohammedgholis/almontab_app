@@ -8,10 +8,10 @@
 
   "test": {
     "enabled": true,
-    "latestVersion": "1.9.1",
-    "minVersion": "1.9.1",
+    "latestVersion": "1.9.2",
+    "minVersion": "1.9.2",
     "mandatory": true,
-    "url": "https://github.com/mohammedgholis/almontab_app/releases/download/v1.9.0-test/muntab-test-1.9.1.apk",
+    "url": "https://github.com/mohammedgholis/almontab_app/releases/download/v1.9.0-test/muntab-test-1.9.2.apk",
     "notes": "نسخة تجريبية للاختبار الداخلي"
   }
 }
