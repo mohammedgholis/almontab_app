@@ -1,9 +1,9 @@
 {
   "enabled": true,
-  "latestVersion": "1.9.1",
-  "minVersion": "1.9.1",
+  "latestVersion": "1.9.2",
+  "minVersion": "1.9.2",
   "mandatory": true,
-  "url": "https://github.com/mohammedgholis/almontab_app/releases/download/v1.9.0/muntab-1.9.1.apk",
+  "url": "https://github.com/mohammedgholis/almontab_app/releases/download/v1.9.0/muntab-1.9.2.apk",
   "notes": "- إضافة التحديث التلقائي داخل التطبيق\n- تحسينات في الأداء والاستقرار",
 
   "test": {
